@@ -16,3 +16,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/09_construction
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/09_construction.git
