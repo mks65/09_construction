@@ -19,3 +19,6 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/09_construction.git
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/09_construction_vj.git
