@@ -22,3 +22,6 @@
 [submodule "jiangVin"]
 	path = jiangVin
 	url = https://github.com/vjiang10/09_construction_vj.git
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/09_construction.git
