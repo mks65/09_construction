@@ -67,3 +67,6 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/09_work.git
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_09_construction.git
