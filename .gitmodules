@@ -103,3 +103,6 @@
 [submodule "vostrikovVla"]
 	path = vostrikovVla
 	url = https://github.com/villinoid/09_systems
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/construction.git
