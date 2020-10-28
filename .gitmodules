@@ -79,3 +79,6 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-09_construction.git
+[submodule "haoGan"]
+	path = haoGan
+	url = https://github.com/haotianGan/construction_10
