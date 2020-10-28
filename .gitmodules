@@ -64,3 +64,6 @@
 [submodule "zhaoGav"]
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw10.git
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/09_work.git
