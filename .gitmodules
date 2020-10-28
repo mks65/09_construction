@@ -88,3 +88,6 @@
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-09.git
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/hw09_construction
