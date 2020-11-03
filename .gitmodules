@@ -1,111 +1,148 @@
 [submodule "nathMic"]
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_construction_work.git
+  branch = main
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/work09_construction.git
+  branch = main
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/09_construction_mks.git
+  branch = main
 [submodule "raoIva"]
 	path = raoIva
 	url = https://github.com/irao12/systems_09_construction
+  branch = main
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/09_construction
+  branch = main
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/09_construction.git
+  branch = main
 [submodule "jiangVin"]
 	path = jiangVin
 	url = https://github.com/vjiang10/09_construction_vj.git
+  branch = main
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/09_construction.git
+  branch = main
 [submodule "liSun"]
 	path = liSun
 	url = https://github.com/sunnyli13/Work09.git
+  branch = main
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/09_construction.git
+  branch = main
 [submodule "ahmedTah"]
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/09_construction.git
+  branch = main
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/09_construction_zhangAle
+  branch = main
 [submodule "zhangJin"]
 	path = zhangJin
 	url = https://github.com/Jinzxc/09_construction_J.git
+  branch = main
 [submodule "zhangDev"]
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_09_construction.git
+  branch = main
 [submodule "linLei"]
 	path = linLei
 	url = https://github.com/llin11/09_construction.git
+  branch = main
 [submodule "shenkerEth"]
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/09_construction_systems.git
+  branch = main
 [submodule "luRan"]
 	path = luRan
 	url = https://github.com/RandyLu0/Work09
+  branch = main
 [submodule "maoMad"]
 	path = maoMad
 	url = https://github.com/madelynxmao/09_construction.git
+  branch = main
 [submodule "leeLuc"]
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/09_construction
+  branch = main
 [submodule "ku-benjetJer"]
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_09_construction.git
+  branch = main
 [submodule "leeSte"]
 	path = leeSte
 	url = https://github.com/kevidgel/09_construction_kevidgel
+  branch = main
 [submodule "zhaoGav"]
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw10.git
+  branch = main
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/09_work.git
+  branch = main
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/systems_09_construction.git
+  branch = main
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/09_Construction.git
+  branch = main
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/09construction.git
+  branch = main
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-09_construction.git
+  branch = main
 [submodule "haoGan"]
 	path = haoGan
 	url = https://github.com/haotianGan/construction_10
+  branch = main
 [submodule "liuAli"]
 	path = liuAli
 	url = https://github.com/aliu889/09_construction_.git
+  branch = main
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-09.git
+  branch = main
 [submodule "huMic"]
 	path = huMic
 	url = https://github.com/GuessHuIAm/hw09_construction
+  branch = main
 [submodule "misquittaKri"]
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Work_09.git
+  branch = main
 [submodule "siniscalcoFra"]
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/09_construction_mks.git
+  branch = main
 [submodule "sahaAbh"]
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/09_construction.git
+  branch = main
 [submodule "vostrikovVla"]
 	path = vostrikovVla
 	url = https://github.com/villinoid/09_systems
+  branch = main
 [submodule "chanSer"]
 	path = chanSer
 	url = https://github.com/schan11/construction.git
+  branch = main
 [submodule "09_construction_vs"]
 	path = siuVic
 	url = https://github.com/vs2961/09_construction_vs.git
+  branch = main
