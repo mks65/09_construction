@@ -141,7 +141,7 @@
 [submodule "chanSer"]
 	path = chanSer
 	url = https://github.com/schan11/construction.git
-  branch = main
+  branch = master
 [submodule "09_construction_vs"]
 	path = siuVic
 	url = https://github.com/vs2961/09_construction_vs.git
