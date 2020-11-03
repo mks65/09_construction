@@ -5,7 +5,7 @@
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/work09_construction.git
-  branch = main
+  branch = master
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/09_construction_mks.git
@@ -29,7 +29,7 @@
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/09_construction.git
-  branch = main
+  branch = master
 [submodule "liSun"]
 	path = liSun
 	url = https://github.com/sunnyli13/Work09.git
@@ -45,7 +45,7 @@
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/09_construction_zhangAle
-  branch = main
+  branch = master
 [submodule "zhangJin"]
 	path = zhangJin
 	url = https://github.com/Jinzxc/09_construction_J.git
@@ -53,7 +53,7 @@
 [submodule "zhangDev"]
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_09_construction.git
-  branch = main
+  branch = master
 [submodule "linLei"]
 	path = linLei
 	url = https://github.com/llin11/09_construction.git
@@ -69,7 +69,7 @@
 [submodule "maoMad"]
 	path = maoMad
 	url = https://github.com/madelynxmao/09_construction.git
-  branch = main
+  branch = master
 [submodule "leeLuc"]
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/09_construction
@@ -89,7 +89,7 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/09_work.git
-  branch = main
+  branch = master
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/systems_09_construction.git
@@ -101,7 +101,7 @@
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/09construction.git
-  branch = main
+  branch = master
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-09_construction.git
@@ -137,7 +137,7 @@
 [submodule "vostrikovVla"]
 	path = vostrikovVla
 	url = https://github.com/villinoid/09_systems
-  branch = main
+  branch = master
 [submodule "chanSer"]
 	path = chanSer
 	url = https://github.com/schan11/construction.git
