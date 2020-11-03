@@ -121,7 +121,7 @@
 [submodule "huMic"]
 	path = huMic
 	url = https://github.com/GuessHuIAm/hw09_construction
-  branch = main
+  branch = master
 [submodule "misquittaKri"]
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Work_09.git
