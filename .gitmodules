@@ -57,7 +57,7 @@
 [submodule "linLei"]
 	path = linLei
 	url = https://github.com/llin11/09_construction.git
-  branch = main
+  branch = master
 [submodule "shenkerEth"]
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/09_construction_systems.git
